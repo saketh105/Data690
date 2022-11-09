@@ -7,7 +7,7 @@
 
 
 # Outlook:
-- Using World Development Explorer, we can examine how much electricity is used globally '''**(worlddev.xyz)**'''. 
+- Using World Development Explorer, we can examine how much electricity is used globally **(worlddev.xyz)**. 
 - Based on the previous ten years, the 6 countries namely Canada, United States, India, Pakistan, Sri Lanka and Afghanistan with the highest and lowest access to electricity are shown below (2010-2020) The World Bank
 
 # Questions to be answered:
