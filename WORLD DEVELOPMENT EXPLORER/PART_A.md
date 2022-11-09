@@ -10,4 +10,4 @@
 ![image](lineurban.png)
 ![image](linerural.png)
 ![image](scr2020.png)
-![image](2020bar.png)
+![image](F76AED85-2BB1-418F-90F0-779A0FE9B8EA.jpeg.png)
