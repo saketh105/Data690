@@ -36,18 +36,16 @@
 
 # Time Series of rural accessibility over the time period 2010 to 2020
 ![image](linerural.png)
+- This line graph illustrates the change in access to electricity in rural areas between the years of 2010 and 2020. United States, Canada, and Pakistan are three countries that saw essentially little change in their accessibility rate over the course of the decade. 
+- The first two had a 100 percent accessibility rate, while the third had a dramatic 60 percent accessibility rate. 
+- Most intriguingly, Afghanistan's population increased from 30% to 98 percent throughout those 10 years, which is a success for the nation.
 
+# Time Series of urban accessibility over the time period 2010 to 2020
+![image](lineurban.png)
 - The line graph in this column provides evidence of the shift in metropolitan regions' availability to electricity from 2010 to 2020.
 - Even though there was no linear increase, there were multiple oscillations throughout the decade, it is apparent that Afghanistan had a significant growth from 80% at the beginning of the decade to about 98% by the conclusion of the decade. 
 - India alone experienced a strong climb from 94 to 99 with relatively few oscillations. Around the decade to 1998, Pakistan and Sri Lanka experienced a 3 percent linear increase. 
 - Over the course of a decade, Canada and the United States had a straight line with a 100% electrical provider.
-
-# Time Series of urban accessibility over the time period 2010 to 2020
-![image](lineurban.png)
-
-- This line graph illustrates the change in access to electricity in rural areas between the years of 2010 and 2020. United States, Canada, and Pakistan are three countries that saw essentially little change in their accessibility rate over the course of the decade. 
-- The first had a 100 percent accessibility rate, while the third had a dramatic 60 percent accessibility rate. 
-- Most intriguingly, Afghanistan's population increased from 30% to 98 percent throughout those 10 years, which is a success for the nation.
 
 # Electricity accessibility of rural over urban(% population) in 2020:
 ![image](scr2020.png)
