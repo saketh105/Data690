@@ -59,3 +59,10 @@
 
 - The pie chart clearly identifies the total amount of electricity that each country's population will use by 2020. Canada With complete accessibility throughout all of the countries, the United States and Sri Lanka are eating up the largest portions of the pie chart. 
 - India is only about 1% away from joining the top-ranking nations. Despite significant progress, Pakistan will still fall short of the 80 percent mark in 2020.
+
+
+# Conclusion:
+- Canada and the United States have led the pack overall over the past ten years.
+-  When compared to its enormously big population, India's accessibility rate experienced a very significant increase.
+-   Sri Lanka made some notable improvements at this time as well. Due to the fact that just 60% of Pakistan's rural residents had access to electricity at the end of the decade, the country bitterly experienced a horrible decade. 
+-   Most surprisingly, Afghanistan had the biggest growth in this area, with 98 percent of its rural population having access to electricity by the end of the decade, up from 30 percent at the beginning.
